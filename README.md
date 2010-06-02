@@ -21,7 +21,7 @@ help. With mostly-static content it's "setup once and let them use" approach.
 * multilingual sites prepared
 
 
-### How does it basically works
+### How does it basically work
 
 `index.php` is handling all the requests (except existing files). It
 uses `router.php` to decide if it should use file content or do any special
