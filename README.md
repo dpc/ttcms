@@ -5,7 +5,7 @@
 Simple CMS for small sites with non-technical page editors.
 Good base for custom features development.
 
-It's quite often that people want small company/business/personal sites
+It's quite common that people want small company/business/personal sites
 on which they could edit content. And it's easier for them to use natural
 markup like Markdown then HTML. And WYSIWYG editors are more of pain then real
 help. With mostly-static content it's "setup once and let them use" approach.
