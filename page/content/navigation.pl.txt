@@ -1,0 +1,2 @@
+* [Start](/start "Strona startowa")
+* [EN](/lang/en "Przełącz na angielski")

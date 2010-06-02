@@ -1,0 +1,38 @@
+
+
+body {
+	font-family: monospace;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+#navigation {
+	background-color: red;
+	text-align:center;
+}
+
+#navigation li {
+	list-style: none;
+	margin: 0;
+	display: inline;
+
+}
+
+#navigation, #content {
+	padding: 2px;
+}
+
+#content {
+	border: 1px solid black;
+}
