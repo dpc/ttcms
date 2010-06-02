@@ -1,3 +1,19 @@
+
+<Files ".htaccess">
+  Order Allow,Deny
+  deny from all
+</Files>
+
+<FilesMatch "\.php$">
+  Order Allow,Deny
+  deny from all
+</FilesMatch>
+
+<Files "index.php">
+  Order Allow,Deny
+  allow from all
+</Files>
+
 <IfModule mod_rewrite.c>
 	RewriteEngine on
 
