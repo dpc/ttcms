@@ -3,6 +3,9 @@
 require_once 'lib/common.php';
 
 global $config;
+
+check_security($args);
+
 $page = $args[0];
 
 if ( $page == '') {
