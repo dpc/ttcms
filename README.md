@@ -35,6 +35,8 @@ converts to HTML using Markdown plugin.
 
 * install in `htdocs` apache folder
 * download Markdown plugin to `./3rd` party folder
+* copy .htaccess.dist to .htaccess
+* copy config.php.dist to config.php
 * check `./config.php`
 
 # License
